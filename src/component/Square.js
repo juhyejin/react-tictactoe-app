@@ -1,7 +1,7 @@
 
 import './Square.css'
 
-const square = ({onClick, value}) => {
+const square = ({value,onClick}) => {
   return(
   <button className="square" onClick={onClick}>
     {value}
