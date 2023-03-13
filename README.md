@@ -1,3 +1,5 @@
+<div align="center">
+
 # TicTacToe 
 
 ### 📖 React로 만든 TicTacToe
@@ -6,3 +8,4 @@
 
 <a href="https://juhyejin.github.io/react-tictactoe-app">데모 실행 하기</a>
 
+</div>
